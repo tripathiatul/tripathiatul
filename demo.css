@@ -1,0 +1,259 @@
+body
+{
+    background-color: aqua;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ background-color: rgb(201, 221, 194);
+ 
+}
+h1
+{
+    text-align: center;
+    font-size: xx-large;
+color: brown;
+}
+.meal
+{
+    color: rgb(24, 19, 4);
+   
+}
+ p span
+{
+color: red;
+}
+img
+{
+width: 1500px;
+height: 1000px;
+}
+.box
+{
+border: 2px solid black;
+text-align: center;
+border-radius: 15px;
+}
+
+.xy
+{
+    text-align: center;
+}
+.box
+{
+    background-color:bisque;
+    text-align: center;
+    margin-top: 50px;
+    border: 1px gray solid;
+    padding: 20px;
+}
+.container
+{
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content-area
+{
+    margin-top: 5px;
+    border-top: 2px solid black;
+border-bottom: 2px solid black;
+}
+.main-area
+{
+    width: 100%;
+    float: left;
+    padding: 10px;
+box-sizing: border-box;
+}
+.side-bar
+{
+
+    width: 50%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.fix
+{
+    clear: both;
+}
+footer
+{
+    text-align: center;
+    color: grey;
+    
+}
+/* site navigation */
+.site-nav li
+{
+    list-style: none;
+    float: left;
+    border-radius: 5px ;
+   
+}
+.navi
+{
+    clear: both;
+}
+.site-nav
+{
+   
+    padding-left: 250px;
+
+}
+.site-nav a
+{
+
+    padding: auto;
+    display: block;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color:blueviolet;
+    padding: 20px 130px 20px 10px;
+  
+}
+.site-nav a:hover
+{
+background-color: white;
+}
+img
+{
+    max-width: 100%;
+    height: auto;
+}
+.banner-des
+{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color:rgb(236, 171, 193);
+    color: white;
+
+}
+.img-banner
+{
+    width: auto;
+    height: auto    ;
+    padding-bottom: 5px;
+position: relative;
+}
+.img-banner img
+{
+    display: block;
+}
+.bmi
+{
+    text-align: center;
+}
+
+input[type="email"],
+input[type="number"]
+{
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    padding: 20px;
+    height: 10px;
+}
+
+input[type="email"]:focus,
+input[type="number"]:focus
+input
+{
+    border: 1px solid green;
+    box-shadow: inset 2px red;
+}
+
+form
+{
+    padding-bottom: 10px;
+    background-color: rgb(202, 194, 224);
+    border-radius: 15px;
+}
+.hideemail
+{
+    position: absolute;
+    height: 0;
+    width: 0;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+.hidenumber
+{
+    position: absolute;
+    height: 0;
+    width: 0;
+    overflow: hidden;
+}
+.save
+{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.bmi-des
+{
+height: max-content;    
+margin-left: 35px;
+    margin-top: 30px;
+margin-bottom: 30px; 
+}
+.rad
+{
+    border-radius: 15px;
+}
+
+.food
+{
+    background-color:rgb(201, 221, 194);
+}
+.img-banner
+{
+    border-radius: 100px;
+}
+
+
+
+.Our-services
+{
+    margin-left: 200px;
+    list-style: none;
+    margin-top: auto;
+    width: 25%;
+    float: left;
+}
+.Our-product
+{
+    list-style: none;
+    margin-top: auto;
+    width: 25%;
+    float: left;
+}
+.Contact-Us
+{
+margin-top: auto;
+width: auto;
+}
+
+.wqr
+{
+    clear: both;
+}
+.mar-head
+{
+    color: red;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.bmi
+{
+    font-weight: bolder;
+    font-size: larger;
+}
+.ved-loc
+{
+    margin-left: 30px;
+}
+.performa
+{
+    margin-top: 20px;
+}
